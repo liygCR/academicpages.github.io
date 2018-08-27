@@ -14,5 +14,5 @@ redirect_from:
 <br />
 
 I am (co-)author and maintainer of the following software:
-* **HSDiC** - implementing Homogeneity and Sparsity Detection Incorporating Prior Constraint Information. [R package](https://github.com/liygCR/HSDiC)
+* **HSDiC** - ([R package](https://github.com/liygCR/HSDiC)) implementing Homogeneity and Sparsity Detection Incorporating Prior Constraint Information. 
 
