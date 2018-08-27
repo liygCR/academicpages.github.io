@@ -11,10 +11,6 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Statistics, Department of Statistics and Finance, University of Science and Technology of China, 2018 (expected)
-* B.S. School of Mathematics, South China University of Technology, 2012
-
-
 * Oct 2013 – Present, 
   * Ph.D in Statistics, Department of Statistics and Finance, University of Science and Technology of China (USTC).
   * Supervised by Prof. Yaohua Wu and Associate Prof. [Baisuo Jin](http://staff.ustc.edu.cn/~jbs)
