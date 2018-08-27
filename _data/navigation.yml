@@ -4,7 +4,7 @@ main:
     url: /publications/
     
   - title: "Software"
-    url: /portfolio/
+    url: /software/
 
   - title: "Talks"
     url: /talks/    
@@ -12,7 +12,7 @@ main:
   #- title: "Teaching"
   #  url: /teaching/    
     
-  #- title: "Software"
+  #- title: "Portfolio"
   #  url: /portfolio/
         
   #- title: "Blog Posts"
