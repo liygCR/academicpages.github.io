@@ -11,9 +11,9 @@ title                    : "Yaguang Li"
 title_separator          : "-"
 name                     : &name "Yaguang Li"
 description              : &description "Phd candidate in Dept. of Statistics and Finance at University of Science and Technology of China (USTC) "
-url                      : https://YaguangLi.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://liygCR.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "liygCR/YaguangLi.github.io"
+repository               : "liygCR/liygCR.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
